@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bearded-wookie
+  description: Sample component
+spec:
+  type: library
+  lifecycle: production
+  owner: lazyllama
